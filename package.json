@@ -8,9 +8,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@portabletext/react": "^1.0.1",
+    "@sanity/block-content-to-react": "^3.0.0",
+    "@sanity/client": "^2.23.2",
+    "@sanity/image-url": "^1.0.1",
+    "groq": "^2.15.0",
     "next": "12.0.9",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-lines-ellipsis": "^0.15.0",
+    "react-responsive-carousel": "^3.2.22"
   },
   "devDependencies": {
     "eslint": "8.8.0",
